@@ -4,6 +4,5 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": "null",
   "profile": { "id": 222, "title": "Post 332" }
 }
