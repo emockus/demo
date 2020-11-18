@@ -5,5 +5,5 @@
     { "id": 3, "title": "Post 3" }
   ],
   "profile": { "id": null, "title": "Post 332" },
-  "go": { "id": "null" }
+  "go": { "id": 12, "val": null }
 }
