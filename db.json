@@ -5,6 +5,5 @@
     { "id": 3, "title": "Post 3" }
   ],
   "comments": { "id": 1, "title": "Post 1" },
-  "profile": {
-    "name": null
+  "profile": null
 }
